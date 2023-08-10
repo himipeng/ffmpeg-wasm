@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@ffmpeg/ffmpeg': ^0.12.2
+  '@ffmpeg/ffmpeg': ^0.12.3
   '@ffmpeg/util': ^0.12.0
   '@types/react': ^18.2.15
   '@types/react-dom': ^18.2.7
@@ -19,7 +19,7 @@ specifiers:
   vite: ^4.4.5
 
 dependencies:
-  '@ffmpeg/ffmpeg': 0.12.2
+  '@ffmpeg/ffmpeg': 0.12.3
   '@ffmpeg/util': 0.12.0
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
@@ -504,8 +504,8 @@ packages:
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     dev: true
 
-  /@ffmpeg/ffmpeg/0.12.2:
-    resolution: {integrity: sha512-ZoOG0nWBjAzgVVTNi0ISGVUkPfGVHEYjZaDW0rL6vgM2IjAwjLmt/ZeHm3IzjCGWF6GRj4auKMYM0WTBp/20IA==}
+  /@ffmpeg/ffmpeg/0.12.3:
+    resolution: {integrity: sha512-icl+xQ9tgslg20kpDFO598Z/r3yEaoDoIW0NASVkGcy8KTkTRQuiYBvyRVpCJCe+X5bmZnO1qNSVtc3LjYX0UQ==}
     engines: {node: '>=18.17.0'}
     dependencies:
       '@ffmpeg/types': 0.12.0
